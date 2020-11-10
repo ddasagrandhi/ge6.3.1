@@ -21,6 +21,20 @@
       <relatedItems xmi:id="_wR28ayMcEeuDVsmjj1Orug" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_wR28bCMcEeuDVsmjj1Orug" id="Mathematical" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_3CBooCMcEeuDVsmjj1Orug">
+      <baseItem xmi:id="_3CBooSMcEeuDVsmjj1Orug" id="_zqaMkCMcEeuDVsmjj1Orug" version="0.1" type="job"/>
+      <relatedItems xmi:id="_3CBooiMcEeuDVsmjj1Orug" id="_mOgoICMcEeuDVsmjj1Orug" version="Latest" type="context"/>
+      <relatedItems xmi:id="_3CBooyMcEeuDVsmjj1Orug" id="_rwyk8CMcEeuDVsmjj1Orug" version="Latest" type="context"/>
+      <relatedItems xmi:id="_3CBopCMcEeuDVsmjj1Orug" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_3CBopSMcEeuDVsmjj1Orug" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_3CBopiMcEeuDVsmjj1Orug" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_3CBopyMcEeuDVsmjj1Orug" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_3CBoqCMcEeuDVsmjj1Orug" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_3CBoqSMcEeuDVsmjj1Orug" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_3CBoqiMcEeuDVsmjj1Orug" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_3CBoqyMcEeuDVsmjj1Orug" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_3CBorCMcEeuDVsmjj1Orug" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_Et_e0CMcEeuDVsmjj1Orug" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_Et_e0SMcEeuDVsmjj1Orug" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_Et_e0iMcEeuDVsmjj1Orug" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
